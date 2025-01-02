@@ -1,0 +1,6 @@
+numpy~=1.21.6
+matplotlib~=3.5.3
+bezier~=2021.2.12
+sympy~=1.10.1
+gcodeparser~=0.2.0
+scipy
